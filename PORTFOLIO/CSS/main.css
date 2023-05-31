@@ -25,3 +25,9 @@ main .main-content .text p{
     font-size: 1.2em;
     font-weight: 300;
 }
+
+/* CARDS */
+main .main-content .cards{
+    display: flex;
+    align-items: center;
+}
